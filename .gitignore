@@ -1,0 +1,6 @@
+CSV Files/
+Output/
+Output_full/
+.DS_Store
+node_modules/
+__pycache__/
